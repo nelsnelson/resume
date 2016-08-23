@@ -2,7 +2,7 @@
 
 Mailing address and telephone number are available upon request
 
-Website is nelsnelson.org
+Website is https://nelsnelson.org/
 
 Work e-mail is nels.nelson@rackspace.com
 
