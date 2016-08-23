@@ -1,8 +1,11 @@
 # NELS NELSON
 
 Mailing address and telephone number are available upon request
+
 Website is nelsnelson.org
+
 Work e-mail is nels.nelson@rackspace.com
+
 Personal e-mail is nels.n.nelson@gmail.com
 
 
