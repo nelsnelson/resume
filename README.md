@@ -81,20 +81,31 @@ I will settle for nothing less than an advanced software engineering position th
 ## WORK EXPERIENCE
 
  * 2006-2016/present
+
    Rackspace, Inc.
+
    San Antonio, Texas
+
    Austin, Texas
+
    IT/CORE, Customer Portal, Cloud Compute
+
    Software Engineer Developer
 
  * 2004-2006
+
    Syracuse Research Corporation
+
    San Antonio Office
+
    Software Engineer
 
  * 2000-2005
+
    Regianno's Italian Panificio
+
    San Antonio, Texas
+
    Waiter
 
 
